@@ -15,7 +15,7 @@
   </properties>
  <build>
         <!-- Source directory configuration -->
-<!--         <sourceDirectory>src</sourceDirectory> -->
+        <sourceDirectory>src</sourceDirectory>
         <plugins>
         
             <!-- Compiler plugin configures the java version to be usedfor compiling
