@@ -2,6 +2,9 @@
 
 <suite parallel="false" name="Suite">
   <test name="Test">
+  <parameter name="list1" value="Mangoes"/>
+  <paramenter name="list2" value = "Potato"/>
+  
     <classes>
       <class name="loginpage.Loginpage"/>
     </classes>

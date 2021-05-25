@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="1" passed="1">
+<testng-results total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="14597" started-at="2018-06-24T16:29:21Z" finished-at="2018-06-24T16:29:36Z">
+  <suite started-at="2021-05-25T11:45:17Z" name="Suite" finished-at="2021-05-25T11:45:45Z" duration-ms="27768">
     <groups>
     </groups>
-    <test name="Test" duration-ms="14597" started-at="2018-06-24T16:29:21Z" finished-at="2018-06-24T16:29:36Z">
+    <test started-at="2021-05-25T11:45:17Z" name="Test" finished-at="2021-05-25T11:45:45Z" duration-ms="27768">
       <class name="loginpage.Loginpage">
-        <test-method status="PASS" signature="login()[pri:0, instance:loginpage.Loginpage@13fee20c]" name="login" is-config="true" duration-ms="14582" started-at="2018-06-24T21:59:21Z" finished-at="2018-06-24T21:59:36Z">
+        <test-method is-config="true" signature="login()[pri:0, instance:loginpage.Loginpage@1700915]" started-at="2021-05-25T17:15:17Z" name="login" finished-at="2021-05-25T17:15:45Z" duration-ms="27746" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method status="PASS" signature="loginapp()[pri:0, instance:loginpage.Loginpage@13fee20c]" name="loginapp" duration-ms="1" started-at="2018-06-24T21:59:36Z" finished-at="2018-06-24T21:59:36Z">
+        <test-method signature="loginapp()[pri:0, instance:loginpage.Loginpage@1700915]" started-at="2021-05-25T17:15:45Z" name="loginapp" finished-at="2021-05-25T17:15:45Z" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginapp -->

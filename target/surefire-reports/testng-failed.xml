@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [testing.project.AppTest]" verbose="0">
-  <test name="Command line test(failed)">
+<suite name="Failed suite [Suite]" verbose="0">
+  <test name="Test(failed)">
     <classes>
-      <class name="testing.project.AppTest">
+      <class name="loginpage.Loginpage">
         <methods>
-          <include name="f"/>
+          <include name="loginapp"/>
+          <include name="login"/>
         </methods>
-      </class> <!-- testing.project.AppTest -->
+      </class> <!-- loginpage.Loginpage -->
     </classes>
-  </test> <!-- Command line test(failed) -->
-</suite> <!-- Failed suite [testing.project.AppTest] -->
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
